@@ -17,7 +17,7 @@ This project combines the power of React with state management and real-time bac
 
 ## How it looks
 
-![Image](https://github.com/user-attachments/assets/562dfce4-8f3f-44c2-9fef-595a72804b69)
+![Image](https://i.imgur.com/TP9Yi04.png)
 
 ## Known Issues
 
